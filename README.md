@@ -41,9 +41,9 @@ Open `index.html` in your browser to view the landing page.
 
 ## Structure
 
-    â”œâ”€â”€ index.html          # Main HTML file
-    â”œâ”€â”€ README.md           # Documentation
-    â””â”€â”€ (embedded CSS/JS)   # Styles and scripts included in HTML
+    index.html          # Main HTML file
+    README.md           # Documentation
+    (embedded CSS/JS)   # Styles and scripts included in HTML
 
 ## Code Sections Overview
 
@@ -201,11 +201,11 @@ newsletterForm.addEventListener('submit', function(e) {
 
 ## Browser Support
 
--   âœ… Chrome 60+
--   âœ… Firefox 55+
--   âœ… Safari 12+
--   âœ… Edge 79+
--   âœ… Mobile browsers (iOS Safari, Chrome Mobile)
+-   Chrome 60+
+-   Firefox 55+
+-   Safari 12+
+-   Edge 79+
+-   Mobile browsers (iOS Safari, Chrome Mobile)
 
 ## Performance
 
@@ -244,6 +244,6 @@ portfolios - **Marketing Campaigns**: Event and product promotions
 
 ------------------------------------------------------------------------
 
-**Built with â¤ï¸ for modern web development**
+**Built with for modern web development**
 
 *Last updated: September 2025*
