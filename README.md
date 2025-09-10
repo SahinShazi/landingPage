@@ -4,11 +4,11 @@ A stunning, fully responsive landing page built with HTML, CSS, and
 vanilla JavaScript. Features modern design elements, smooth animations,
 and mobile-first responsive design.
 
-## ðŸŒŸ Live Demo
+## Live Demo
 
 Open `index.html` in your browser to view the landing page.
 
-## âœ¨ Features
+## Features
 
 ### Design & Aesthetics
 
@@ -39,13 +39,13 @@ Open `index.html` in your browser to view the landing page.
 -   **Cross-browser Compatible**: Works on all modern browsers
 -   **SEO Friendly**: Semantic HTML structure with proper meta tags
 
-## ðŸ—ï¸ Structure
+## Structure
 
     â”œâ”€â”€ index.html          # Main HTML file
     â”œâ”€â”€ README.md           # Documentation
     â””â”€â”€ (embedded CSS/JS)   # Styles and scripts included in HTML
 
-## ðŸ“± Sections Overview
+## Code Sections Overview
 
 ### 1. Header Navigation
 
@@ -89,7 +89,7 @@ Open `index.html` in your browser to view the landing page.
 -   Multi-column responsive layout
 -   Copyright and branding
 
-## ðŸŽ¨ Design System
+## Design System
 
 ### Colors
 
@@ -116,7 +116,7 @@ Dark Background: #2c3e50
 -   **Grid Gaps**: 40px between elements
 -   **Container**: 1200px max-width with 2rem padding
 
-## ðŸ“± Responsive Breakpoints
+## Responsive Breakpoints
 
 ``` css
 Mobile: max-width: 768px
@@ -126,14 +126,14 @@ Mobile: max-width: 768px
 - Adjusted spacing
 ```
 
-## ðŸš€ Quick Start
+## Quick Start
 
 1.  **Download/Clone** the HTML file
 2.  **Open** `index.html` in any modern web browser
 3.  **Customize** content, colors, and branding as needed
 4.  **Deploy** to any web hosting service
 
-## ðŸ› ï¸ Customization Guide
+## Customization Guide
 
 ### Changing Colors
 
@@ -162,7 +162,7 @@ background: linear-gradient(135deg, #your-color-1, #your-color-2);
 3.  Include reveal animation classes for scroll effects
 4.  Update navigation links if needed
 
-## ðŸ”§ JavaScript Features
+## JavaScript Features
 
 ### Mobile Menu Toggle
 
@@ -199,7 +199,7 @@ newsletterForm.addEventListener('submit', function(e) {
 });
 ```
 
-## ðŸŒ Browser Support
+## Browser Support
 
 -   âœ… Chrome 60+
 -   âœ… Firefox 55+
@@ -207,14 +207,14 @@ newsletterForm.addEventListener('submit', function(e) {
 -   âœ… Edge 79+
 -   âœ… Mobile browsers (iOS Safari, Chrome Mobile)
 
-## ðŸ“Š Performance
+## Performance
 
 -   **Lighthouse Score**: 95+ (Performance, Accessibility, SEO)
 -   **Load Time**: \< 2 seconds on 3G
 -   **Bundle Size**: \~15KB (HTML + inline CSS/JS)
 -   **Mobile Optimized**: Touch-friendly interactions
 
-## ðŸ¤ Contributing
+## Contributing
 
 Feel free to fork this project and customize it for your needs:
 
@@ -223,19 +223,19 @@ Feel free to fork this project and customize it for your needs:
 3.  Test across different devices
 4.  Submit improvements via pull request
 
-## ðŸ“„ License
+## License
 
 This project is open source and available under the [MIT
 License](LICENSE).
 
-## ðŸŽ¯ Use Cases
+## Use Cases
 
 Perfect for: - **SaaS Products**: Software and app landing pages -
 **Digital Agencies**: Portfolio and service showcases - **Startups**:
 Product launches and lead generation - **Personal Brands**: Professional
 portfolios - **Marketing Campaigns**: Event and product promotions
 
-## ðŸ”— Resources
+## Resources
 
 -   [MDN Web Docs](https://developer.mozilla.org/) - Web development
     reference
